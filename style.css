@@ -1,0 +1,80 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    background-color: rgb(176, 176, 223);
+}
+
+.header_div{
+    background-color: rgb(236, 195, 227);
+    color: black;
+}
+
+.header_div img {
+    width: 100px;
+}
+
+.header_div h2{
+    font-size: 70px;
+}
+
+.cam_snap{
+    background-color: rgb(250, 144, 106);
+    font-size: 25px;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid rgb(252, 214, 144);
+}
+
+.cam_snap label{
+    background-color: whitesmoke;
+    width: 310px;
+    padding : 10px;
+    margin-bottom: 0px;
+    box-shadow: 13px 13px 19px rgb(130, 111, 240);
+}
+
+#camera , #result{
+ border: 2px solid black;
+ width: 310px;
+ height: 300px;
+ box-shadow: 13px 13px 19px rgb(130, 111, 240);
+ margin-top: 15px;
+ margin-bottom: 15px;
+}
+
+.cam_snap button{
+ width: 310px;
+ font-size: 20px;
+ box-shadow: 13px 13px 19px rgb(130, 111, 240);
+ padding: 25px;
+ border: 3px solid rgb(95, 1, 1);
+}
+
+.footer_div{
+    margin-bottom: 50px;
+
+}
+
+.footer_div h4{
+    background-color: wheat;
+    border-radius: 1000px;
+    padding: 8px;
+    box-shadow: 17px 13px 19px rgb(24, 151, 7);
+
+}
+
+.footer_div img{
+    width: 70px;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0px;
+    width: 100%;
+    background-color: khaki;
+    line-height: 2.5;
+    text-align: center;
+    font-size: 17.005005005px;
+    font-weight: bold;
+}
